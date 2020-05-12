@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>#pilulasemquarentena</title>
+  <link>https://opartisano.org/</link>
+  <description>Uma noite de quarenta dias.</description>
+  <item>
+    <title>7.5.2020</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>New XML tutorial on W3Schools</description>
+  </item>
+</channel>
+
+</rss>
